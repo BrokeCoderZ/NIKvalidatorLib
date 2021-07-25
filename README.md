@@ -14,11 +14,10 @@ tambahkan code berikut : <br>
 `Dim DATA As New NIKproperti` <br>
 
 Untuk mem-validasi NIK, cukup dengan menambahkan perintah : <br>
-`NIKvalidator.Aksi.ValidasiNIK(DATA)`
-<p> 
-Kalian juga bisa lihat disini <br>
-## Contoh penggunaan Library 'NikvalidatorLib.dll' menggunakan VB.NET
-(https://gitlab.com/PoetralesanA/nik-validator-lib/-/tree/master/example%20use)
+`NIKvalidator.Aksi.ValidasiNIK(DATA)` <p>
+ ## Contoh penggunaan 'NikvalidatorLib.dll' menggunakan VB.NET 
+Silahkan kunjungi link berikut :  
+(https://gitlab.com/PoetralesanA/nik-validatorlib/-/tree/master/example%20use)
 
 ### Screenshot :
 <p>
