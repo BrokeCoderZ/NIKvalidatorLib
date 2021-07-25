@@ -1,0 +1,27 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\obj\Debug\nik_validator.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\obj\Debug\nik_validator.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\obj\Debug\nik_validator.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\bin\Debug\Nik validator.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\bin\Debug\Nik validator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\bin\Debug\Nik validator.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\bin\Debug\Nik validator.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\obj\Debug\Nik validator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\obj\Debug\Nik validator.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\obj\Debug\Nik validator.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\obj\Debug\nik_validator.aboutapp.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\nik_validator\nik_validator\obj\Debug\nik_validator.main.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\bin\Debug\Nik validator.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\obj\Debug\Nik validator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\obj\Debug\Nik validator.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\obj\Debug\Nik validator.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\bin\Debug\Nik validator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\bin\Debug\Nik validator.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\bin\Debug\Nik validator.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\obj\Debug\nik_validator.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\obj\Debug\nik_validator.aboutapp.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\obj\Debug\nik_validator.main.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\obj\Debug\nik_validator.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\nik_validator\obj\Debug\nik_validator.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\example\nik_validator\bin\Debug\Nik validator.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\example\nik_validator\obj\Debug\Nik validator.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Nikvalidator\nik_validator\New folder\example\nik_validator\obj\Debug\Nik validator.pdb

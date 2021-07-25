@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Nikvalidator
+</name>
+</assembly>
+<members>
+<member name="P:nik_validator.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:nik_validator.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:nik_validator.My.Resources.Resources.facebookpage">
+	<summary>
+  Looks up a localized string similar to https://www.facebook.com/poetralesana.
+</summary>
+</member><member name="P:nik_validator.My.Resources.Resources.infoApp">
+	<summary>
+  Looks up a localized string similar to NIK validator
+n00b Developer : PoetralesanA
+Facebook : Facebook.com/poetralesana
+Gitlab : gitlab.com/poetralesana
+
+Thanks for AndyHaruna, Petak 6 Squad
+Special thanks : Xertz (LogIn GDI+ Theme), Shin Ryu.
+</summary>
+</member><member name="P:nik_validator.My.Resources.Resources.youtube">
+	<summary>
+  Looks up a localized string similar to https://www.youtube.com/channel/UCesKL9YMfIjKaf7JysGmAQQ/videos.
+</summary>
+</member><member name="T:nik_validator.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:nik_validator.DrawHelpers">
+	<summary>
+ LogIn GDI+ Theme
+ Theme Creator: Xertz (HF)
+ Version: 1.4
+ Control Count: 28
+ Date Created: 18/12/2013
+ Date Changed: 07/09/2014
+ UID: 1602992
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

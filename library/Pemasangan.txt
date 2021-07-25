@@ -1,0 +1,7 @@
+Cara menggunakan NikvalidatorLib.dll
+
+1. Pada project anda, Add references "NikvalidatorLib.dll"
+2. Letakan folder "assets" pada \bin\Debug
+3. Pastikan target framework versi 4.5 atau lebih tinggi.
+
+Visit : https://gitlab.com/PoetralesanA/nik-validator-lib
