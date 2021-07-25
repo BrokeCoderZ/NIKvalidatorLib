@@ -17,7 +17,8 @@ Untuk mem-validasi NIK, cukup dengan menambahkan perintah : <br>
 `NIKvalidator.Aksi.ValidasiNIK(DATA)`
 <p> 
 Kalian juga bisa lihat disini <br>
-[>> Contoh penggunaan Library 'NikvalidatorLib.dll' menggunakan VB.NET](https://gitlab.com/PoetralesanA/nik-validator-lib/-/tree/master/example%20use)
+## Contoh penggunaan Library 'NikvalidatorLib.dll' menggunakan VB.NET
+(https://gitlab.com/PoetralesanA/nik-validator-lib/-/tree/master/example%20use)
 
 ### Screenshot :
 <p>
